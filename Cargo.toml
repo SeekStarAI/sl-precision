@@ -1,0 +1,8 @@
+[package]
+name = "sl-precision"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Quantization, calibration, and hardware-aware packing tools for StarLight."
+repository = "https://github.com/SeekStarAI/sl-precision"
+readme = "README.md"
